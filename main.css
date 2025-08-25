@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(211, 206, 144);
+    padding: auto;
+}
+header {
+    background-color: #789f6a;
+    padding: 1rem;
+    text-align: center;
+}
+header img{
+    margin: auto;
+    max-width: 5%;
+    padding-top: 0%;
+}
+nav ul{
+    list-style: none;
+    margin: auto;
+    padding: 0;
+    display: block;
+}
+nav a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #152f0b;
+    font-size: 25px;
+    padding: 1em
+}
+nav a:hover{
+color: #6fc04f;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+   
+}
+section{
+    text-align: center;
+    padding: 0.5em;
+}
+section img{
+    max-width: 100%;
+    height: auto;
+    max-width: 600px;
+}
+.myndir{
+ display: flex;
+ justify-content: center;
+ gap: 1em;
+}
+p{
+    color: #152f0b;
+    font-size: 18px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+h1{
+   
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
+}
+h2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+    padding: 0%;
+    margin: 0%;
+}
+footer ul{
+   list-style: none;
+    margin: auto;
+    padding: 1em;
+    color: #152f0b;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+
+}
